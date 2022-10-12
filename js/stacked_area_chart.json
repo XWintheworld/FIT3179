@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 300, "height": 200,
+  "width": 400, "height": 300,
   "data": {"url": "https://raw.githubusercontent.com/XWintheworld/FIT3179/main/data/co2_data_long.csv"},
   "mark": "area",
   "encoding": {

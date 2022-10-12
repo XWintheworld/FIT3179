@@ -1,7 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 800,
-  "height": 600,
+
   "title": "Climate Change",
   "data": {
     "url": "https://raw.githubusercontent.com/XWintheworld/FIT3179/main/data/CO2_Tree_Temperature.csv"
